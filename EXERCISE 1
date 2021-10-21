@@ -1,0 +1,17 @@
+package myInfo;
+
+public class Personal {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : Ainur Hanim Binti Abdul Halim");
+	System.out.println("No Matric : 288091");
+	System.out.println("Course : Bachelor Of Computer Science");
+	System.out.println("No Telephone : 01127258557");
+	System.out.println("Address : No 269, Lorong Jelutong 5, Taman Jelutong, 09000 Kulim");
+	System.out.println("Age : 19");
+	System.out.println("Father's Name : Abdul Halim Bin Nayan");
+	System.out.println("Mother's Name : Fazilah Binti Ibrahim");
+
+}
+}
